@@ -1,0 +1,13 @@
+C:\Users\Teleperformance\Desktop\Projetos\TPrint 1.2 - TPB\TPrint 1.2\bin\Debug\Print 1.2.exe.config
+C:\Users\Teleperformance\Desktop\Projetos\TPrint 1.2 - TPB\TPrint 1.2\bin\Debug\Print 1.2.exe
+C:\Users\Teleperformance\Desktop\Projetos\TPrint 1.2 - TPB\TPrint 1.2\bin\Debug\Print 1.2.pdb
+C:\Users\Teleperformance\Desktop\Projetos\TPrint 1.2 - TPB\TPrint 1.2\bin\Debug\Print 1.2.xml
+C:\Users\Teleperformance\Desktop\Projetos\TPrint 1.2 - TPB\TPrint 1.2\obj\Debug\Print 1.2.vbprojAssemblyReference.cache
+C:\Users\Teleperformance\Desktop\Projetos\TPrint 1.2 - TPB\TPrint 1.2\obj\Debug\Print_1._2.Form1.resources
+C:\Users\Teleperformance\Desktop\Projetos\TPrint 1.2 - TPB\TPrint 1.2\obj\Debug\Print_1._2.Form2.resources
+C:\Users\Teleperformance\Desktop\Projetos\TPrint 1.2 - TPB\TPrint 1.2\obj\Debug\Print_1._2.Resources.resources
+C:\Users\Teleperformance\Desktop\Projetos\TPrint 1.2 - TPB\TPrint 1.2\obj\Debug\Print 1.2.vbproj.GenerateResource.cache
+C:\Users\Teleperformance\Desktop\Projetos\TPrint 1.2 - TPB\TPrint 1.2\obj\Debug\Print 1.2.vbproj.CoreCompileInputs.cache
+C:\Users\Teleperformance\Desktop\Projetos\TPrint 1.2 - TPB\TPrint 1.2\obj\Debug\Print 1.2.exe
+C:\Users\Teleperformance\Desktop\Projetos\TPrint 1.2 - TPB\TPrint 1.2\obj\Debug\Print 1.2.xml
+C:\Users\Teleperformance\Desktop\Projetos\TPrint 1.2 - TPB\TPrint 1.2\obj\Debug\Print 1.2.pdb
